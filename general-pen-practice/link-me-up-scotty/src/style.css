@@ -1,0 +1,25 @@
+a {
+  display: inline-block; /* so that a width='text length' -> links will highlight only above text*/
+  color: green;
+  font-size: 24px;
+  font-family: Sen;
+  margin: 10px;
+  width: ;
+}
+
+a:hover {
+  color: lime;
+  text-decoration: none;
+}
+
+a:active {
+  color: red;
+  font-size: 30px;
+}
+
+/*a:visited {
+  text: pink;
+  background: purple;
+  border: solid 150px red;
+  margin: 10px;
+  /*Hmm too bad we can't test it - links open the page in the preview window and I don't see what happens to the used hyperlink...*/

@@ -1,0 +1,50 @@
+/*** Header ***/
+.aqua {
+  background: turquoise;
+  height: 70px;
+  width: 100%;
+}
+
+/*** Main Content ***/
+
+.red {
+  background: red;
+  flex-grow: 5;
+}
+
+/*** Black Square ***/
+.black {
+  background: black;
+  width: 50px;
+  height: 50px;
+  top: 600px;
+  right: 200px;
+  position: absolute;
+}
+
+/*** Left Div ***/
+.orange {
+  background: orange;
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+/*** Right Div ***/
+.purple {
+  background: purple;
+  flex-grow: 1;
+  height: 600px;
+  margin-left: 20px;
+}
+
+/*** Footer ***/
+.blue {
+  background: blue;
+  height: 70px;
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}

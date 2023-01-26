@@ -1,0 +1,32 @@
+main {
+  width: 150px;
+  font-family: EB Garamond;
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+}
+
+p {
+  text-align: center;
+}
+
+.ene {
+  background: #E67676;
+  margin: 0px;
+  padding: 10px 0px 10px 0px;
+}
+
+.rike {
+  background: #A9E6E6;
+  margin: 0px;
+  padding: 10px 0px 10px 0px;
+}
+
+.oops {
+  border: solid 5px #4285f4;
+  margin-bottom: 5px;
+}
+
+.hmm {
+  border: solid 5px #4285f4;
+}

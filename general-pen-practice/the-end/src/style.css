@@ -1,0 +1,63 @@
+.purple {
+  background: purple;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+}
+
+.cyan {
+  background: cyan;
+  height: 30px;
+}
+
+.yellow {
+  background: yellow;
+  flex-grow: 4;
+  margin: 68px 100px 5px 0px
+ }
+
+.lime {
+  background: lime;
+  flex-grow: 1;
+  margin: 68px 0px 5px 100px
+}
+
+#div {
+  display: flex;
+  flex-direction: row-reverse;
+  height: 500px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#LinkOne {
+  margin: 0px 5px 0px 109px;
+  width: 70px
+}
+
+#LinkTwo {
+  margin: 0px 5px 0px 5px;
+  width: 110px;
+}
+
+#LinkThree {
+  margin: 0px 5px 0px 5px;
+  width: 70px;
+}
+
+.LinkFour {
+  margin: 0px 5px 0px 5px;
+  width: 85px;
+}
+/*I realize I could have used classes instead of ids here some of the time at least; for now will leave as is as I just want to finish this for today and move on*/
+.footer {
+  background: lightgrey;
+  height: 80px;
+  margin: 0px 100px 0px 100px
+}

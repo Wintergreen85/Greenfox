@@ -1,0 +1,41 @@
+div {
+  display: inline;
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 4px solid black;
+  background: lime;
+}
+
+.first {
+  border: 4px solid red;
+}
+
+.second {
+  border: 4px solid #000000;
+  background: white;
+}
+
+.third {
+  
+}
+
+.fourth {
+  border: 5px solid blue;
+}
+
+.fifth {
+  background: gold;
+  border: 5px solid purple;
+}
+
+body {
+  padding: 10px;
+  margin: 20px;
+}
+
+p {
+  align-right: 10px;
+  font-family: Verdana;
+  padding-left: 20px;
+}

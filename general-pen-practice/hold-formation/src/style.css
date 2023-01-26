@@ -1,0 +1,20 @@
+input {
+  display: block;
+  border: 3px solid limegreen;
+  border-radius: 4px;
+  margin: 0px 0px 10px 0px;
+}
+
+label {
+  display: block;
+  font-family: Verdana;
+  margin: 0px 0px 2px 0px;
+}
+
+button {
+  padding: 15px 10px 15px 10px;
+  font-size: 15px;
+  background: lightgreen;
+  border: solid 2px lightgreen;
+  border-radius: 30px;
+}
